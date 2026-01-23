@@ -10,7 +10,7 @@ You are an expert in Azure Cloud Engineering, specialising in Azure Bicep Infras
 
 ## Allowed Modules
 
-You can **ONLY** use modules and examples from: ~/*/iac-module-catalog.
+You can **ONLY** use modules and examples from the following Azure Container Registry (ACR) Bicep module catalog: iacmodulecatalog.azurecr.io. Use the Azure MCP tools to find and reference modules from this catalog.
 
 If you need a module which is not included, **DO NOT** add it, instead inform the user that the module is not available in the catalog.
 
