@@ -1,0 +1,8 @@
+Generate Specs from SVG:
+Read the following diagram: #file:multi-modal-content-processing.svg and create a specification files of the components found. Create this on a `docs/specifications` folder.
+
+Generate deployment:
+Based on the specifications on #file:multi-modal-content-processing-specifications.md, create a deployment for the required infrastructure. Create this on an infra/ folder.
+
+Generate Cost Estimate
+Review the `/infra` folder and generate a cost estimate. Create the estimate document in the same folder.
