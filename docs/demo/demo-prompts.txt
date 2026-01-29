@@ -1,5 +1,5 @@
 Generate Specs from SVG:
-Read the following diagram: #file:multi-modal-content-processing.svg and create a specification files of the components found. Create this on a `docs/specifications` folder.
+Read the following diagram: #file:azure-architecture.svg and create a specification files of the components found. Create this on a `docs/specifications` folder.
 
 Generate deployment:
 Based on the specifications on #file:multi-modal-content-processing-specifications.md, create a deployment for the required infrastructure. Create this on an infra/ folder.
