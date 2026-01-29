@@ -1,0 +1,24 @@
+# Bicep build outputs
+*.json
+!*.bicepparam.json
+
+# Azure CLI output
+deployment-outputs.json
+
+# Local secrets
+*.local.bicepparam
+secrets/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Bicep lock files (optional - uncomment if you want to track them)
+# bicepconfig.lock.json
