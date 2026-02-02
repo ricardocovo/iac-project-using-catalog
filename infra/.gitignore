@@ -1,0 +1,13 @@
+# Bicep generated files
+*.json
+!.bicepconfig.json
+
+# Deployment logs
+*.log
+
+# Azure CLI output
+*.output
+
+# Temporary files
+*.tmp
+*.temp
