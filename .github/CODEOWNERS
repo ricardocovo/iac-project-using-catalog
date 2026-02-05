@@ -1,0 +1,6 @@
+# CODEOWNERS file
+# This file defines the default code owners for this repository.
+# Code owners are automatically requested for review when someone opens a pull request.
+
+# Default owner for all files in the repository
+* @ricardocovo
